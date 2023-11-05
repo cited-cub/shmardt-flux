@@ -8,4 +8,6 @@ spec:
   interval: 1m0s
   ref:
     branch: main
+  secretRef:
+    name: flux-deploy-authentication
   url: https://gitlab.com/my-kicas-group/shmardt-app.git
