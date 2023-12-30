@@ -11,4 +11,4 @@ spec:
   sourceRef:
     kind: GitRepository
     name: main-source-git-shmardt-app
-  targetNamespace: shmardt-app
+  targetNamespace: flux-system
